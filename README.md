@@ -5,4 +5,6 @@ Cédric Pilatte and Damien Galant.
 
 <a href="https://friedrichthechicken.github.io/TheMinimumDilationTriangulationProblem/umons_slides_CedricPILATTE.pdf">Introduction and theoretical aspects</a>
 
-<a href="https://friedrichthechicken.github.io/TheMinimumDilationTriangulationProblem/ymsgr_presentation_slides_Damien_GALANT.pdf">Computational aspects and results</a>
+<a href="https://friedrichthechicken.github.io/TheMinimumDilationTriangulationProblem/UMONS_slides_Damien_GALANT.pdf">Computational aspects and results (detailed version)</a>
+
+<a href="https://friedrichthechicken.github.io/TheMinimumDilationTriangulationProblem/UMONS_presentation_slides_Damien_GALANT.pdf">Computational aspects and results (presentation version)</a>
